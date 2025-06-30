@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+deprecated
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-jaeger
