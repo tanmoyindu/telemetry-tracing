@@ -20,6 +20,12 @@ This project shows how to instrument a FastAPI application with OpenTelemetry to
 - Docker and Docker Compose installed
 - (Optional) Python 3.11+ if running locally without Docker
 
+## This starts both the FastAPI app and Jaeger UI.
+
+FastAPI API: http://localhost:8000
+
+Jaeger UI: http://localhost:16686
+
 ### Running with Docker Compose
 
 ```bash
